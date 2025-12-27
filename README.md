@@ -1,9 +1,13 @@
-**Non-Chaotic Rulkov Networks Exhibit Robust Winnerless Competition for Bioinspired Motion Encoding**\\
-Authors:\\
-Luis Pabon-Orozco(1)(2)\\
-Esther D. Gutierrez (2)\\
+**Non-Chaotic Rulkov Networks Exhibit Robust Winnerless Competition for Bioinspired Motion Encoding**
 
-(1) Universidad Central de Venezuela, Facultad de Ciencias, Escuela de Fisica, Caracas, Venezuela
+Authors:
+
+Luis Pabon-Orozco(1)(2)
+
+Esther D. Gutierrez (2)
+
+(1) Universidad Central de Venezuela, Facultad de Ciencias, Escuela de Fisica, Caracas, Venezuela.
+
 (2) Escuela Superior Polit´ecnica del Litoral, ESPOL, Departamento de Fısica, Facultad de Ciencias
 Naturales y Matematicas, Campus Gustavo Galindo,km. 30.5 Via Perimetral, P. O. Box 09-01-5863, Guayaquil,
 Ecuador
