@@ -13,6 +13,7 @@ Naturales y Matematicas, Campus Gustavo Galindo,km. 30.5 Via Perimetral, P. O. B
 Ecuador
 
 **Abstract**
+
 Winnerless competition (WLC) is a framework for sequential switching, observed
 from low- to high-dimensional settings, in which units alternate in transient dominance
 through competitive, state-dependent interactions. Instead of converging to
